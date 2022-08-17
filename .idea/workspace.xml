@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="datastruct" targetName="z" />
+      <config projectName="datastruct" targetName="flood_fill" />
+      <config projectName="datastruct" targetName="word_search" />
+      <config projectName="datastruct" targetName="string_permutations" />
+      <config projectName="datastruct" targetName="find_odd_one_out" />
+      <config projectName="datastruct" targetName="combinationSum3" />
+      <config projectName="datastruct" targetName="pUnitTest" />
+      <config projectName="datastruct" targetName="0_1_knapsack_problem" />
+      <config projectName="datastruct" targetName="2-2-kthToLast" />
+      <config projectName="datastruct" targetName="save_quantamland" />
+      <config projectName="datastruct" targetName="rearrange_list" />
+      <config projectName="datastruct" targetName="add_two_numbers_lists" />
+      <config projectName="datastruct" targetName="find_pairs_with_sum" />
+      <config projectName="datastruct" targetName="find_difference" />
+      <config projectName="datastruct" targetName="1-1-hasUniqueChars" />
+      <config projectName="datastruct" targetName="jumpGame" />
+      <config projectName="datastruct" targetName="power_of_2" />
+      <config projectName="datastruct" targetName="1-2-perm-strings" />
+      <config projectName="datastruct" targetName="reverseEndianness" />
+      <config projectName="datastruct" targetName="length_of_last_word" />
+      <config projectName="datastruct" targetName="listPallindrome" />
+      <config projectName="datastruct" targetName="level_of_node" />
+      <config projectName="datastruct" targetName="swapBits" />
+      <config projectName="datastruct" targetName="check_opposite_signs" />
+      <config projectName="datastruct" targetName="dialpad_combinations" />
+      <config projectName="datastruct" targetName="move_zeros" />
+      <config projectName="datastruct" targetName="printAllRootToLeafPath" />
+      <config projectName="datastruct" targetName="minLengthUnsortedArray" />
+      <config projectName="datastruct" targetName="1-3-URLify" />
+      <config projectName="datastruct" targetName="countPrimes" />
+      <config projectName="datastruct" targetName="mergeLists" />
+      <config projectName="datastruct" targetName="closestPairSorted" />
+      <config projectName="datastruct" targetName="pow" />
+      <config projectName="datastruct" targetName="maxProfitStock" />
+      <config projectName="datastruct" targetName="reverse_words" />
+      <config projectName="datastruct" targetName="stock_span_problem" />
+      <config projectName="datastruct" targetName="testClosestNums" />
+      <config projectName="datastruct" targetName="swapSetOfBits" />
+      <config projectName="datastruct" targetName="closest_nums" />
+      <config projectName="datastruct" targetName="merge_sort" />
+      <config projectName="datastruct" targetName="swapNodesWithoutSwappingData" />
+      <config projectName="datastruct" targetName="firstRepeatingElement" />
+      <config projectName="datastruct" targetName="findMaximum" />
+      <config projectName="datastruct" targetName="find_parity" />
+      <config projectName="datastruct" targetName="wild_card_matching" />
+      <config projectName="datastruct" targetName="1-2-edi5-reverseString" />
+      <config projectName="datastruct" targetName="find_target_k" />
+      <config projectName="datastruct" targetName="reverseBitsOfAnInteger" />
+      <config projectName="datastruct" targetName="check_if_power_of_4" />
+      <config projectName="datastruct" targetName="max_subsequence" />
+      <config projectName="datastruct" targetName="remove_invalid_parenthesis" />
+      <config projectName="datastruct" targetName="nthToLastNode" />
+      <config projectName="datastruct" targetName="testFRE" />
+      <config projectName="datastruct" targetName="2-8-loop-detection" />
+      <config projectName="datastruct" targetName="connectNextPointers" />
+      <config projectName="datastruct" targetName="invert_a_tree" />
+      <config projectName="datastruct" targetName="1-9-string-rotation" />
+      <config projectName="datastruct" targetName="bubbleSortDemo" />
+      <config projectName="datastruct" targetName="convert_to_sum_tree" />
+      <config projectName="datastruct" targetName="lowest-common-ancestor-binary-tree" />
+      <config projectName="datastruct" targetName="mergeSortDemo" />
+      <config projectName="datastruct" targetName="product_except_self" />
+      <config projectName="datastruct" targetName="phone_digits" />
+      <config projectName="datastruct" targetName="next_permutation" />
+      <config projectName="datastruct" targetName="gcd" />
+      <config projectName="datastruct" targetName="commonIn3Arrays" />
+      <config projectName="datastruct" targetName="reverseLinkedListIterAndRecurse" />
+      <config projectName="datastruct" targetName="unique_paths" />
+      <config projectName="datastruct" targetName="minPath" />
+      <config projectName="datastruct" targetName="integerOverflow" />
+      <config projectName="datastruct" targetName="huffman_coding" />
+      <config projectName="datastruct" targetName="2-6-palindrome" />
+      <config projectName="datastruct" targetName="kruskalMST" />
+      <config projectName="datastruct" targetName="counter_game" />
+      <config projectName="datastruct" targetName="remove_element" />
+      <config projectName="datastruct" targetName="predecessorSuccessor" />
+      <config projectName="datastruct" targetName="zigZagTraversal" />
+      <config projectName="datastruct" targetName="best_time_to_buy_sell" />
+      <config projectName="datastruct" targetName="queueDemo" />
+      <config projectName="datastruct" targetName="count_islands" />
+      <config projectName="datastruct" targetName="word_pattern" />
+      <config projectName="datastruct" targetName="multiply_by_7" />
+      <config projectName="datastruct" targetName="cloneListWithRandomPtr" />
+      <config projectName="datastruct" targetName="closest_bst_value" />
+      <config projectName="datastruct" targetName="addDigits" />
+      <config projectName="datastruct" targetName="1-5-one-edit-away" />
+      <config projectName="datastruct" targetName="1-8-zero-matrix" />
+      <config projectName="datastruct" targetName="sortedArrayToBST" />
+      <config projectName="datastruct" targetName="removeDuplicatesFromSortedList" />
+      <config projectName="datastruct" targetName="sortCharByFrequency" />
+      <config projectName="datastruct" targetName="verticalSum" />
+      <config projectName="datastruct" targetName="editDistance" />
+      <config projectName="datastruct" targetName="valid_parenthesis" />
+      <config projectName="datastruct" targetName="robinKarpStringMatching" />
+      <config projectName="datastruct" targetName="find_min_rotated" />
+      <config projectName="datastruct" targetName="longestConsecutiveSeq" />
+      <config projectName="datastruct" targetName="rotate_matrix" />
+      <config projectName="datastruct" targetName="reverseLevelOrderTraversal" />
+      <config projectName="datastruct" targetName="listDemo" />
+      <config projectName="datastruct" targetName="addBin" />
+      <config projectName="datastruct" targetName="heapSort" />
+      <config projectName="datastruct" targetName="fixedPoint" />
+      <config projectName="datastruct" targetName="2-7-intersection" />
+      <config projectName="datastruct" targetName="n_binary" />
+      <config projectName="datastruct" targetName="countNumberOfBitFlips" />
+      <config projectName="datastruct" targetName="2-4-partition" />
+      <config projectName="datastruct" targetName="happy_number" />
+      <config projectName="datastruct" targetName="vigenere_cipher" />
+      <config projectName="datastruct" targetName="testClosestPair" />
+      <config projectName="datastruct" targetName="moveZeroes" />
+      <config projectName="datastruct" targetName="1-7-matrix-rotation" />
+      <config projectName="datastruct" targetName="floyedCycleDetection" />
+      <config projectName="datastruct" targetName="smallest_missing" />
+      <config projectName="datastruct" targetName="shortest_path_maze" />
+      <config projectName="datastruct" targetName="first_occurrence_binary_search" />
+      <config projectName="datastruct" targetName="grid_word_search" />
+      <config projectName="datastruct" targetName="stackDemo" />
+      <config projectName="datastruct" targetName="dijkstra-shortest-reach" />
+      <config projectName="datastruct" targetName="next_power_of_2" />
+      <config projectName="datastruct" targetName="testCommon" />
+      <config projectName="datastruct" targetName="catalan_number" />
+      <config projectName="datastruct" targetName="lowest_possible_number" />
+      <config projectName="datastruct" targetName="hamming_distance" />
+      <config projectName="datastruct" targetName="peak_element" />
+      <config projectName="datastruct" targetName="levelOrderTraversalIterative" />
+      <config projectName="datastruct" targetName="k_sum_paths" />
+      <config projectName="datastruct" targetName="maxArea" />
+      <config projectName="datastruct" targetName="dfsDemo" />
+      <config projectName="datastruct" targetName="factorial_of_large_num" />
+      <config projectName="datastruct" targetName="addition_without_operators" />
+      <config projectName="datastruct" targetName="orders_order" />
+      <config projectName="datastruct" targetName="levelOrderTraversalRecursive" />
+      <config projectName="datastruct" targetName="primsMST" />
+      <config projectName="datastruct" targetName="containsDuplicate" />
+      <config projectName="datastruct" targetName="selectionSort" />
+      <config projectName="datastruct" targetName="1-6-string-compression" />
+      <config projectName="datastruct" targetName="first_non_repeating_int" />
+      <config projectName="datastruct" targetName="kth_smallest" />
+      <config projectName="datastruct" targetName="matrix_spiral_print" />
+      <config projectName="datastruct" targetName="summary_ranges" />
+      <config projectName="datastruct" targetName="string_from_tree" />
+      <config projectName="datastruct" targetName="printMiddleNode" />
+      <config projectName="datastruct" targetName="testClosestZero" />
+      <config projectName="datastruct" targetName="testFixPoint" />
+      <config projectName="datastruct" targetName="pstring_test" />
+      <config projectName="datastruct" targetName="sumRootToLeafNumbers" />
+      <config projectName="datastruct" targetName="squareSum" />
+      <config projectName="datastruct" targetName="findDigits" />
+      <config projectName="datastruct" targetName="quickSortDemo" />
+      <config projectName="datastruct" targetName="infix_to_postfix" />
+      <config projectName="datastruct" targetName="search2DII" />
+      <config projectName="datastruct" targetName="pstring" />
+      <config projectName="datastruct" targetName="intersection_of_array" />
+      <config projectName="datastruct" targetName="node_ancestors_in_root_path" />
+      <config projectName="datastruct" targetName="missingNumber2" />
+      <config projectName="datastruct" targetName="median_stream" />
+      <config projectName="datastruct" targetName="caeser_cipher" />
+      <config projectName="datastruct" targetName="remove_duplicates" />
+      <config projectName="datastruct" targetName="deleteNode" />
+      <config projectName="datastruct" targetName="validate_bst" />
+      <config projectName="datastruct" targetName="excelColSheetTitle" />
+      <config projectName="datastruct" targetName="array_rotation" />
+      <config projectName="datastruct" targetName="reverseAlternateNodes" />
+      <config projectName="datastruct" targetName="testFOBS" />
+      <config projectName="datastruct" targetName="insertInASortedLinkedList" />
+      <config projectName="datastruct" targetName="reverse_vowels" />
+      <config projectName="datastruct" targetName="right_most_set_bit" />
+      <config projectName="datastruct" targetName="1-3-edi5-removeDuplicates" />
+      <config projectName="datastruct" targetName="2-5-add-lists" />
+      <config projectName="datastruct" targetName="findClosestPairToZero" />
+      <config projectName="datastruct" targetName="floor_ceil_bst" />
+      <config projectName="datastruct" targetName="testFindMax" />
+      <config projectName="datastruct" targetName="findIntersectionPointOfLists" />
+      <config projectName="datastruct" targetName="fibonacci" />
+      <config projectName="datastruct" targetName="testBubble" />
+      <config projectName="datastruct" targetName="firstMissingPositiveNum" />
+      <config projectName="datastruct" targetName="missingNumbers" />
+      <config projectName="datastruct" targetName="missing_number" />
+      <config projectName="datastruct" targetName="power_function" />
+      <config projectName="datastruct" targetName="rotateList" />
+      <config projectName="datastruct" targetName="2-1-remove-dups" />
+      <config projectName="datastruct" targetName="SleepSort" />
+      <config projectName="datastruct" targetName="merge_trees" />
+      <config projectName="datastruct" targetName="2-3-delete-middle-node" />
+      <config projectName="datastruct" targetName="binarySearchTreeDemo" />
+      <config projectName="datastruct" targetName="lcs" />
+      <config projectName="datastruct" targetName="deleteLinkedlist" />
+      <config projectName="datastruct" targetName="heapSortDemo" />
+      <config projectName="datastruct" targetName="two_arrays" />
+      <config projectName="datastruct" targetName="bfsDemo" />
+      <config projectName="datastruct" targetName="lowest-common-ancestor" />
+      <config projectName="datastruct" targetName="multiple_of_3" />
+      <config projectName="datastruct" targetName="threeSumClosest" />
+      <config projectName="datastruct" targetName="1-4-pallindrome-permutations" />
+      <config projectName="datastruct" targetName="generate_parenthesis" />
+      <config projectName="datastruct" targetName="sumTree" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Default-MinGW" ENABLED="true" GENERATION_DIR="." TOOLCHAIN_NAME="MinGW" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d752e025-2a04-4bac-851b-ec3c9c8f860b" name="Changes" comment="data struct" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Default-MinGW" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Make.Settings">
+    <option name="path" value="make" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="2DUM7MrbOR9Rfv2oD2HEk4EIRhM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "F:/算法学习/datastruct",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.word_search">
+    <configuration name="testBubble" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testBubble" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testBubble" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testClosestNums" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testClosestNums" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testClosestNums" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testClosestPair" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testClosestPair" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testClosestPair" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testClosestZero" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testClosestZero" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testClosestZero" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCommon" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testCommon" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testCommon" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFOBS" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testFOBS" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testFOBS" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFRE" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testFRE" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testFRE" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFindMax" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testFindMax" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testFindMax" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFixPoint" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="testFixPoint" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="testFixPoint" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="0_1_knapsack_problem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="0_1_knapsack_problem" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="0_1_knapsack_problem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-1-hasUniqueChars" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-1-hasUniqueChars" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-1-hasUniqueChars">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-2-edi5-reverseString" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-2-edi5-reverseString" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-2-edi5-reverseString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-2-perm-strings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-2-perm-strings" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-2-perm-strings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-3-URLify" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-3-URLify" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-3-URLify">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-3-edi5-removeDuplicates" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-3-edi5-removeDuplicates" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-3-edi5-removeDuplicates">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-4-pallindrome-permutations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-4-pallindrome-permutations" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-4-pallindrome-permutations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-5-one-edit-away" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-5-one-edit-away" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-5-one-edit-away">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-6-string-compression" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-6-string-compression" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-6-string-compression">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-7-matrix-rotation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-7-matrix-rotation" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-7-matrix-rotation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-8-zero-matrix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-8-zero-matrix" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-8-zero-matrix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1-9-string-rotation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="1-9-string-rotation" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="1-9-string-rotation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-1-remove-dups" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-1-remove-dups" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-1-remove-dups">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-2-kthToLast" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-2-kthToLast" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-2-kthToLast">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-3-delete-middle-node" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-3-delete-middle-node" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-3-delete-middle-node">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-4-partition" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-4-partition" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-4-partition">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-5-add-lists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-5-add-lists" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-5-add-lists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-6-palindrome" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-6-palindrome" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-6-palindrome">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-7-intersection" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-7-intersection" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-7-intersection">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-8-loop-detection" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="2-8-loop-detection" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="2-8-loop-detection">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SleepSort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="SleepSort" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="SleepSort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addBin" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="addBin" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="addBin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addDigits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="addDigits" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="addDigits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="add_two_numbers_lists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="add_two_numbers_lists" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="add_two_numbers_lists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="addition_without_operators" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="addition_without_operators" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="addition_without_operators">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array_rotation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="array_rotation" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="array_rotation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="best_time_to_buy_sell" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="best_time_to_buy_sell" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="best_time_to_buy_sell">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bfsDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="bfsDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="bfsDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binarySearchTreeDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="binarySearchTreeDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="binarySearchTreeDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bubbleSortDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="bubbleSortDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="bubbleSortDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="caeser_cipher" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="caeser_cipher" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="caeser_cipher">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="catalan_number" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="catalan_number" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="catalan_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_if_power_of_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="check_if_power_of_4" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="check_if_power_of_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check_opposite_signs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="check_opposite_signs" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="check_opposite_signs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cloneListWithRandomPtr" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="cloneListWithRandomPtr" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="cloneListWithRandomPtr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="closestPairSorted" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="closestPairSorted" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="closestPairSorted">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="closest_bst_value" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="closest_bst_value" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="closest_bst_value">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="closest_nums" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="closest_nums" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="closest_nums">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="combinationSum3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="combinationSum3" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="combinationSum3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="commonIn3Arrays" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="commonIn3Arrays" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="commonIn3Arrays">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="connectNextPointers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="connectNextPointers" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="connectNextPointers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="containsDuplicate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="containsDuplicate" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="containsDuplicate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="convert_to_sum_tree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="convert_to_sum_tree" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="convert_to_sum_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countNumberOfBitFlips" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="countNumberOfBitFlips" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="countNumberOfBitFlips">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countPrimes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="countPrimes" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="countPrimes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="count_islands" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="count_islands" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="count_islands">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="counter_game" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="counter_game" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="counter_game">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deleteLinkedlist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="deleteLinkedlist" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="deleteLinkedlist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deleteNode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="deleteNode" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="deleteNode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dfsDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="dfsDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="dfsDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dialpad_combinations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="dialpad_combinations" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="dialpad_combinations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dijkstra-shortest-reach" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="dijkstra-shortest-reach" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="dijkstra-shortest-reach">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="editDistance" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="editDistance" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="editDistance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="excelColSheetTitle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="excelColSheetTitle" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="excelColSheetTitle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial_of_large_num" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="factorial_of_large_num" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="factorial_of_large_num">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="fibonacci" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="fibonacci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findClosestPairToZero" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="findClosestPairToZero" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="findClosestPairToZero">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findDigits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="findDigits" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="findDigits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findIntersectionPointOfLists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="findIntersectionPointOfLists" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="findIntersectionPointOfLists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMaximum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="findMaximum" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="findMaximum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find_difference" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="find_difference" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="find_difference">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find_min_rotated" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="find_min_rotated" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="find_min_rotated">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find_odd_one_out" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="find_odd_one_out" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="find_odd_one_out">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find_pairs_with_sum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="find_pairs_with_sum" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="find_pairs_with_sum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find_parity" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="find_parity" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="find_parity">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find_target_k" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="find_target_k" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="find_target_k">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstMissingPositiveNum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="firstMissingPositiveNum" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="firstMissingPositiveNum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstRepeatingElement" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="firstRepeatingElement" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="firstRepeatingElement">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first_non_repeating_int" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="first_non_repeating_int" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="first_non_repeating_int">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first_occurrence_binary_search" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="first_occurrence_binary_search" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="first_occurrence_binary_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fixedPoint" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="fixedPoint" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="fixedPoint">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flood_fill" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="flood_fill" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="flood_fill">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="floor_ceil_bst" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="floor_ceil_bst" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="floor_ceil_bst">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="floyedCycleDetection" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="floyedCycleDetection" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="floyedCycleDetection">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gcd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="gcd" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="gcd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generate_parenthesis" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="generate_parenthesis" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="generate_parenthesis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grid_word_search" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="grid_word_search" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="grid_word_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hamming_distance" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="hamming_distance" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="hamming_distance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="happy_number" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="happy_number" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="happy_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heapSort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="heapSort" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="heapSort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heapSortDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="heapSortDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="heapSortDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="huffman_coding" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="huffman_coding" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="huffman_coding">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="infix_to_postfix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="infix_to_postfix" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="infix_to_postfix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="insertInASortedLinkedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="insertInASortedLinkedList" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="insertInASortedLinkedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="integerOverflow" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="integerOverflow" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="integerOverflow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intersection_of_array" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="intersection_of_array" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="intersection_of_array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="invert_a_tree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="invert_a_tree" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="invert_a_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jumpGame" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="jumpGame" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="jumpGame">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k_sum_paths" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="k_sum_paths" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="k_sum_paths">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kruskalMST" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="kruskalMST" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="kruskalMST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kth_smallest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="kth_smallest" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="kth_smallest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="lcs" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="lcs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="length_of_last_word" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="length_of_last_word" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="length_of_last_word">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="levelOrderTraversalIterative" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="levelOrderTraversalIterative" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="levelOrderTraversalIterative">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="levelOrderTraversalRecursive" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="levelOrderTraversalRecursive" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="levelOrderTraversalRecursive">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="level_of_node" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="level_of_node" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="level_of_node">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="listDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="listDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listPallindrome" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="listPallindrome" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="listPallindrome">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestConsecutiveSeq" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="longestConsecutiveSeq" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="longestConsecutiveSeq">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lowest-common-ancestor-binary-tree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="lowest-common-ancestor-binary-tree" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="lowest-common-ancestor-binary-tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lowest-common-ancestor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="lowest-common-ancestor" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="lowest-common-ancestor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lowest_possible_number" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="lowest_possible_number" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="lowest_possible_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matrix_spiral_print" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="matrix_spiral_print" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="matrix_spiral_print">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxArea" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="maxArea" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="maxArea">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxProfitStock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="maxProfitStock" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="maxProfitStock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="max_subsequence" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="max_subsequence" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="max_subsequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="median_stream" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="median_stream" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="median_stream">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeLists" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="mergeLists" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="mergeLists">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeSortDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="mergeSortDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="mergeSortDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_sort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="merge_sort" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="merge_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_trees" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="merge_trees" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="merge_trees">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minLengthUnsortedArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="minLengthUnsortedArray" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="minLengthUnsortedArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minPath" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="minPath" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="minPath">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missingNumber2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="missingNumber2" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="missingNumber2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missingNumbers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="missingNumbers" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="missingNumbers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="missing_number" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="missing_number" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="missing_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="moveZeroes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="moveZeroes" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="moveZeroes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="move_zeros" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="move_zeros" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="move_zeros">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multiple_of_3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="multiple_of_3" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="multiple_of_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multiply_by_7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="multiply_by_7" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="multiply_by_7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="n_binary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="n_binary" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="n_binary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="next_permutation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="next_permutation" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="next_permutation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="next_power_of_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="next_power_of_2" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="next_power_of_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_ancestors_in_root_path" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="node_ancestors_in_root_path" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="node_ancestors_in_root_path">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nthToLastNode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="nthToLastNode" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="nthToLastNode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orders_order" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="orders_order" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="orders_order">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pUnitTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="pUnitTest" CONFIG_NAME="Default-MinGW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peak_element" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="peak_element" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="peak_element">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phone_digits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="phone_digits" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="phone_digits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pow" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="pow" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="pow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="power_function" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="power_function" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="power_function">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="power_of_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="power_of_2" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="power_of_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="predecessorSuccessor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="predecessorSuccessor" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="predecessorSuccessor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primsMST" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="primsMST" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="primsMST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printAllRootToLeafPath" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="printAllRootToLeafPath" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="printAllRootToLeafPath">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printMiddleNode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="printMiddleNode" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="printMiddleNode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="product_except_self" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="product_except_self" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="product_except_self">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pstring" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="pstring" CONFIG_NAME="Default-MinGW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pstring_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="pstring_test" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="pstring_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="queueDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="queueDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="queueDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quickSortDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="quickSortDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="quickSortDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rearrange_list" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="rearrange_list" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="rearrange_list">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDuplicatesFromSortedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="removeDuplicatesFromSortedList" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="removeDuplicatesFromSortedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remove_duplicates" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="remove_duplicates" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="remove_duplicates">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remove_element" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="remove_element" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="remove_element">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remove_invalid_parenthesis" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="remove_invalid_parenthesis" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="remove_invalid_parenthesis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseAlternateNodes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="reverseAlternateNodes" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="reverseAlternateNodes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseBitsOfAnInteger" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="reverseBitsOfAnInteger" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="reverseBitsOfAnInteger">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseEndianness" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="reverseEndianness" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="reverseEndianness">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseLevelOrderTraversal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="reverseLevelOrderTraversal" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="reverseLevelOrderTraversal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseLinkedListIterAndRecurse" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="reverseLinkedListIterAndRecurse" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="reverseLinkedListIterAndRecurse">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_vowels" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="reverse_vowels" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="reverse_vowels">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_words" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="reverse_words" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="reverse_words">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="right_most_set_bit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="right_most_set_bit" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="right_most_set_bit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="robinKarpStringMatching" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="robinKarpStringMatching" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="robinKarpStringMatching">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rotateList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="rotateList" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="rotateList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rotate_matrix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="rotate_matrix" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="rotate_matrix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="save_quantamland" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="save_quantamland" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="save_quantamland">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search2DII" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="search2DII" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="search2DII">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selectionSort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="selectionSort" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="selectionSort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shortest_path_maze" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="shortest_path_maze" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="shortest_path_maze">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="smallest_missing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="smallest_missing" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="smallest_missing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortCharByFrequency" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="sortCharByFrequency" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="sortCharByFrequency">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortedArrayToBST" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="sortedArrayToBST" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="sortedArrayToBST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="squareSum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="squareSum" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="squareSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stackDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="stackDemo" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="stackDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stock_span_problem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="stock_span_problem" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="stock_span_problem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_from_tree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="string_from_tree" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="string_from_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_permutations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="string_permutations" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="string_permutations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumRootToLeafNumbers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="sumRootToLeafNumbers" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="sumRootToLeafNumbers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumTree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="sumTree" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="sumTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="summary_ranges" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="summary_ranges" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="summary_ranges">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swapBits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="swapBits" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="swapBits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swapNodesWithoutSwappingData" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="swapNodesWithoutSwappingData" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="swapNodesWithoutSwappingData">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swapSetOfBits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="swapSetOfBits" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="swapSetOfBits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threeSumClosest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="threeSumClosest" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="threeSumClosest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_arrays" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="two_arrays" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="two_arrays">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unique_paths" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="unique_paths" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="unique_paths">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="valid_parenthesis" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="valid_parenthesis" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="valid_parenthesis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="validate_bst" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="validate_bst" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="validate_bst">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="verticalSum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="verticalSum" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="verticalSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vigenere_cipher" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="vigenere_cipher" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="vigenere_cipher">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wild_card_matching" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="wild_card_matching" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="wild_card_matching">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="word_pattern" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="word_pattern" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="word_pattern">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="word_search" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="word_search" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="word_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="z" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="z">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zigZagTraversal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="datastruct" TARGET_NAME="zigZagTraversal" CONFIG_NAME="Default-MinGW" RUN_TARGET_PROJECT_NAME="datastruct" RUN_TARGET_NAME="zigZagTraversal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Catch.testBubble" />
+      <item itemvalue="Catch.testClosestNums" />
+      <item itemvalue="Catch.testClosestPair" />
+      <item itemvalue="Catch.testClosestZero" />
+      <item itemvalue="Catch.testCommon" />
+      <item itemvalue="Catch.testFindMax" />
+      <item itemvalue="Catch.testFixPoint" />
+      <item itemvalue="Catch.testFOBS" />
+      <item itemvalue="Catch.testFRE" />
+      <item itemvalue="CMake Application.0_1_knapsack_problem" />
+      <item itemvalue="CMake Application.1-1-hasUniqueChars" />
+      <item itemvalue="CMake Application.1-2-edi5-reverseString" />
+      <item itemvalue="CMake Application.1-2-perm-strings" />
+      <item itemvalue="CMake Application.1-3-edi5-removeDuplicates" />
+      <item itemvalue="CMake Application.1-3-URLify" />
+      <item itemvalue="CMake Application.1-4-pallindrome-permutations" />
+      <item itemvalue="CMake Application.1-5-one-edit-away" />
+      <item itemvalue="CMake Application.1-6-string-compression" />
+      <item itemvalue="CMake Application.1-7-matrix-rotation" />
+      <item itemvalue="CMake Application.1-8-zero-matrix" />
+      <item itemvalue="CMake Application.1-9-string-rotation" />
+      <item itemvalue="CMake Application.2-1-remove-dups" />
+      <item itemvalue="CMake Application.2-2-kthToLast" />
+      <item itemvalue="CMake Application.2-3-delete-middle-node" />
+      <item itemvalue="CMake Application.2-4-partition" />
+      <item itemvalue="CMake Application.2-5-add-lists" />
+      <item itemvalue="CMake Application.2-6-palindrome" />
+      <item itemvalue="CMake Application.2-7-intersection" />
+      <item itemvalue="CMake Application.2-8-loop-detection" />
+      <item itemvalue="CMake Application.add_two_numbers_lists" />
+      <item itemvalue="CMake Application.addBin" />
+      <item itemvalue="CMake Application.addDigits" />
+      <item itemvalue="CMake Application.addition_without_operators" />
+      <item itemvalue="CMake Application.array_rotation" />
+      <item itemvalue="CMake Application.best_time_to_buy_sell" />
+      <item itemvalue="CMake Application.bfsDemo" />
+      <item itemvalue="CMake Application.binarySearchTreeDemo" />
+      <item itemvalue="CMake Application.bubbleSortDemo" />
+      <item itemvalue="CMake Application.caeser_cipher" />
+      <item itemvalue="CMake Application.catalan_number" />
+      <item itemvalue="CMake Application.check_if_power_of_4" />
+      <item itemvalue="CMake Application.check_opposite_signs" />
+      <item itemvalue="CMake Application.cloneListWithRandomPtr" />
+      <item itemvalue="CMake Application.closest_bst_value" />
+      <item itemvalue="CMake Application.closest_nums" />
+      <item itemvalue="CMake Application.closestPairSorted" />
+      <item itemvalue="CMake Application.combinationSum3" />
+      <item itemvalue="CMake Application.commonIn3Arrays" />
+      <item itemvalue="CMake Application.connectNextPointers" />
+      <item itemvalue="CMake Application.containsDuplicate" />
+      <item itemvalue="CMake Application.convert_to_sum_tree" />
+      <item itemvalue="CMake Application.count_islands" />
+      <item itemvalue="CMake Application.counter_game" />
+      <item itemvalue="CMake Application.countNumberOfBitFlips" />
+      <item itemvalue="CMake Application.countPrimes" />
+      <item itemvalue="CMake Application.deleteLinkedlist" />
+      <item itemvalue="CMake Application.deleteNode" />
+      <item itemvalue="CMake Application.dfsDemo" />
+      <item itemvalue="CMake Application.dialpad_combinations" />
+      <item itemvalue="CMake Application.dijkstra-shortest-reach" />
+      <item itemvalue="CMake Application.editDistance" />
+      <item itemvalue="CMake Application.excelColSheetTitle" />
+      <item itemvalue="CMake Application.factorial_of_large_num" />
+      <item itemvalue="CMake Application.fibonacci" />
+      <item itemvalue="CMake Application.find_difference" />
+      <item itemvalue="CMake Application.find_min_rotated" />
+      <item itemvalue="CMake Application.find_odd_one_out" />
+      <item itemvalue="CMake Application.find_pairs_with_sum" />
+      <item itemvalue="CMake Application.find_parity" />
+      <item itemvalue="CMake Application.find_target_k" />
+      <item itemvalue="CMake Application.findClosestPairToZero" />
+      <item itemvalue="CMake Application.findDigits" />
+      <item itemvalue="CMake Application.findIntersectionPointOfLists" />
+      <item itemvalue="CMake Application.findMaximum" />
+      <item itemvalue="CMake Application.first_non_repeating_int" />
+      <item itemvalue="CMake Application.first_occurrence_binary_search" />
+      <item itemvalue="CMake Application.firstMissingPositiveNum" />
+      <item itemvalue="CMake Application.firstRepeatingElement" />
+      <item itemvalue="CMake Application.fixedPoint" />
+      <item itemvalue="CMake Application.flood_fill" />
+      <item itemvalue="CMake Application.floor_ceil_bst" />
+      <item itemvalue="CMake Application.floyedCycleDetection" />
+      <item itemvalue="CMake Application.gcd" />
+      <item itemvalue="CMake Application.generate_parenthesis" />
+      <item itemvalue="CMake Application.grid_word_search" />
+      <item itemvalue="CMake Application.hamming_distance" />
+      <item itemvalue="CMake Application.happy_number" />
+      <item itemvalue="CMake Application.heapSort" />
+      <item itemvalue="CMake Application.heapSortDemo" />
+      <item itemvalue="CMake Application.huffman_coding" />
+      <item itemvalue="CMake Application.infix_to_postfix" />
+      <item itemvalue="CMake Application.insertInASortedLinkedList" />
+      <item itemvalue="CMake Application.integerOverflow" />
+      <item itemvalue="CMake Application.intersection_of_array" />
+      <item itemvalue="CMake Application.invert_a_tree" />
+      <item itemvalue="CMake Application.jumpGame" />
+      <item itemvalue="CMake Application.k_sum_paths" />
+      <item itemvalue="CMake Application.kruskalMST" />
+      <item itemvalue="CMake Application.kth_smallest" />
+      <item itemvalue="CMake Application.lcs" />
+      <item itemvalue="CMake Application.length_of_last_word" />
+      <item itemvalue="CMake Application.level_of_node" />
+      <item itemvalue="CMake Application.levelOrderTraversalIterative" />
+      <item itemvalue="CMake Application.levelOrderTraversalRecursive" />
+      <item itemvalue="CMake Application.listDemo" />
+      <item itemvalue="CMake Application.listPallindrome" />
+      <item itemvalue="CMake Application.longestConsecutiveSeq" />
+      <item itemvalue="CMake Application.lowest-common-ancestor" />
+      <item itemvalue="CMake Application.lowest-common-ancestor-binary-tree" />
+      <item itemvalue="CMake Application.lowest_possible_number" />
+      <item itemvalue="CMake Application.matrix_spiral_print" />
+      <item itemvalue="CMake Application.max_subsequence" />
+      <item itemvalue="CMake Application.maxArea" />
+      <item itemvalue="CMake Application.maxProfitStock" />
+      <item itemvalue="CMake Application.median_stream" />
+      <item itemvalue="CMake Application.merge_sort" />
+      <item itemvalue="CMake Application.merge_trees" />
+      <item itemvalue="CMake Application.mergeLists" />
+      <item itemvalue="CMake Application.mergeSortDemo" />
+      <item itemvalue="CMake Application.minLengthUnsortedArray" />
+      <item itemvalue="CMake Application.minPath" />
+      <item itemvalue="CMake Application.missing_number" />
+      <item itemvalue="CMake Application.missingNumber2" />
+      <item itemvalue="CMake Application.missingNumbers" />
+      <item itemvalue="CMake Application.move_zeros" />
+      <item itemvalue="CMake Application.moveZeroes" />
+      <item itemvalue="CMake Application.multiple_of_3" />
+      <item itemvalue="CMake Application.multiply_by_7" />
+      <item itemvalue="CMake Application.n_binary" />
+      <item itemvalue="CMake Application.next_permutation" />
+      <item itemvalue="CMake Application.next_power_of_2" />
+      <item itemvalue="CMake Application.node_ancestors_in_root_path" />
+      <item itemvalue="CMake Application.nthToLastNode" />
+      <item itemvalue="CMake Application.orders_order" />
+      <item itemvalue="CMake Application.peak_element" />
+      <item itemvalue="CMake Application.phone_digits" />
+      <item itemvalue="CMake Application.pow" />
+      <item itemvalue="CMake Application.power_function" />
+      <item itemvalue="CMake Application.power_of_2" />
+      <item itemvalue="CMake Application.predecessorSuccessor" />
+      <item itemvalue="CMake Application.primsMST" />
+      <item itemvalue="CMake Application.printAllRootToLeafPath" />
+      <item itemvalue="CMake Application.printMiddleNode" />
+      <item itemvalue="CMake Application.product_except_self" />
+      <item itemvalue="CMake Application.pstring" />
+      <item itemvalue="CMake Application.pstring_test" />
+      <item itemvalue="CMake Application.pUnitTest" />
+      <item itemvalue="CMake Application.queueDemo" />
+      <item itemvalue="CMake Application.quickSortDemo" />
+      <item itemvalue="CMake Application.rearrange_list" />
+      <item itemvalue="CMake Application.remove_duplicates" />
+      <item itemvalue="CMake Application.remove_element" />
+      <item itemvalue="CMake Application.remove_invalid_parenthesis" />
+      <item itemvalue="CMake Application.removeDuplicatesFromSortedList" />
+      <item itemvalue="CMake Application.reverse_vowels" />
+      <item itemvalue="CMake Application.reverse_words" />
+      <item itemvalue="CMake Application.reverseAlternateNodes" />
+      <item itemvalue="CMake Application.reverseBitsOfAnInteger" />
+      <item itemvalue="CMake Application.reverseEndianness" />
+      <item itemvalue="CMake Application.reverseLevelOrderTraversal" />
+      <item itemvalue="CMake Application.reverseLinkedListIterAndRecurse" />
+      <item itemvalue="CMake Application.right_most_set_bit" />
+      <item itemvalue="CMake Application.robinKarpStringMatching" />
+      <item itemvalue="CMake Application.rotate_matrix" />
+      <item itemvalue="CMake Application.rotateList" />
+      <item itemvalue="CMake Application.save_quantamland" />
+      <item itemvalue="CMake Application.search2DII" />
+      <item itemvalue="CMake Application.selectionSort" />
+      <item itemvalue="CMake Application.shortest_path_maze" />
+      <item itemvalue="CMake Application.SleepSort" />
+      <item itemvalue="CMake Application.smallest_missing" />
+      <item itemvalue="CMake Application.sortCharByFrequency" />
+      <item itemvalue="CMake Application.sortedArrayToBST" />
+      <item itemvalue="CMake Application.squareSum" />
+      <item itemvalue="CMake Application.stackDemo" />
+      <item itemvalue="CMake Application.stock_span_problem" />
+      <item itemvalue="CMake Application.string_from_tree" />
+      <item itemvalue="CMake Application.string_permutations" />
+      <item itemvalue="CMake Application.summary_ranges" />
+      <item itemvalue="CMake Application.sumRootToLeafNumbers" />
+      <item itemvalue="CMake Application.sumTree" />
+      <item itemvalue="CMake Application.swapBits" />
+      <item itemvalue="CMake Application.swapNodesWithoutSwappingData" />
+      <item itemvalue="CMake Application.swapSetOfBits" />
+      <item itemvalue="CMake Application.threeSumClosest" />
+      <item itemvalue="CMake Application.two_arrays" />
+      <item itemvalue="CMake Application.unique_paths" />
+      <item itemvalue="CMake Application.valid_parenthesis" />
+      <item itemvalue="CMake Application.validate_bst" />
+      <item itemvalue="CMake Application.verticalSum" />
+      <item itemvalue="CMake Application.vigenere_cipher" />
+      <item itemvalue="CMake Application.wild_card_matching" />
+      <item itemvalue="CMake Application.word_pattern" />
+      <item itemvalue="CMake Application.word_search" />
+      <item itemvalue="CMake Application.z" />
+      <item itemvalue="CMake Application.zigZagTraversal" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d752e025-2a04-4bac-851b-ec3c9c8f860b" name="Changes" comment="" />
+      <created>1660749049310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660749049310</updated>
+      <workItem from="1660749058874" duration="2054000" />
+      <workItem from="1660751206217" duration="16000" />
+    </task>
+    <task id="LOCAL-00001" summary="data struct">
+      <created>1660750943639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660750943639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="data struct" />
+    <option name="LAST_COMMIT_MESSAGE" value="data struct" />
+  </component>
+</project>
